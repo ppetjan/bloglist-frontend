@@ -1,0 +1,19 @@
+body {
+    margin: 25px;
+}
+
+form {
+    border: solid;
+    border-width: 1px;
+    padding: 10px 10px 5px 10px;
+    margin: 5px;
+}
+
+button {
+    margin: 5px;    
+}
+
+input {
+    margin: 5px;
+}
+
